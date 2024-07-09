@@ -1,0 +1,10 @@
+/* content.css */
+.whatsapp-blur-overlay {
+  filter: blur(10px);
+  -webkit-filter: blur(10px);
+}
+
+.whatsapp-blur-overlay:hover {
+  filter: blur(0px);
+  -webkit-filter: blur(0px);
+}
