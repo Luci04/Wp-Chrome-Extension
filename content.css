@@ -1,10 +1,124 @@
-/* content.css */
-.whatsapp-blur-overlay {
-  filter: blur(10px);
-  -webkit-filter: blur(10px);
+.whatsapp-blur-overlay [role="row"] > div > ._1AHcd ._13jwn,
+.whatsapp-blur-overlay [role="button"] > div > ._1AHcd ._13jwn,
+.whatsapp-blur-overlay ._2pr2H,
+.whatsapp-blur-overlay ._3WByx,
+.whatsapp-blur-overlay .stnyektq,
+.whatsapp-blur-overlay ._3oha0._2xaO4,
+.whatsapp-blur-overlay ._3dPH0,
+.whatsapp-blur-overlay .b021xdil,
+.whatsapp-blur-overlay div[role="row"] ._ak8h,
+.whatsapp-blur-overlay div[role="button"][class=""] ._ak8h,
+.whatsapp-blur-overlay div[role="dialog"] ._ak8h,
+.whatsapp-blur-overlay header._amid div[role="button"]:first-child > div,
+.whatsapp-blur-overlay div._amk4 > div[role="button"],
+.whatsapp-blur-overlay div._ahz2,
+.whatsapp-blur-overlay div.x2lah0s.x1c4vz4f.xdl72j9.x194xeti,
+.whatsapp-blur-overlay div._ak4m,
+.whatsapp-blur-overlay div.overlay ._ak8h,
+.whatsapp-blur-overlay ._2AOIt div:first-child,
+.whatsapp-blur-overlay ._3cupO,
+.whatsapp-blur-overlay ._1BOF7 ._1sykI,
+.whatsapp-blur-overlay div._amk4 > ._amk6,
+.whatsapp-blur-overlay div._amk4 ._am2s,
+.whatsapp-blur-overlay .pz0xruzv,
+.whatsapp-blur-overlay .njub1g37 ._3xH7K,
+.whatsapp-blur-overlay div.x78zum5.xl56j7k.x1fqp7bg > div[role="button"],
+.whatsapp-blur-overlay
+  div[role="button"][class="x1n2onr6 x14yjl9h xudhj91 x18nykt9 xww2gxu"],
+.whatsapp-blur-overlay
+  div.x10l6tqk.x13vifvy.x17qophe.xh8yej3.xiqx3za.x6ikm8r.x10wlt62.x1knukwh.xihgre1,
+.whatsapp-blur-overlay div.x15e7hw7,
+.whatsapp-blur-overlay div._amje,
+.whatsapp-blur-overlay div.overlay ._am0k,
+.whatsapp-blur-overlay ._aou8,
+.whatsapp-blur-overlay div:not([role]) > div:not([role]) > ._8nE1Y ._21S-L,
+.whatsapp-blur-overlay div[role="row"] > div > ._8nE1Y ._21S-L,
+.whatsapp-blur-overlay div[role="button"] > div > ._8nE1Y ._21S-L,
+.whatsapp-blur-overlay ._3W2ap,
+.whatsapp-blur-overlay ._2au8k div:nth-child(2),
+.whatsapp-blur-overlay ._2HCBh ._1N-sl ._1mDG-,
+.whatsapp-blur-overlay .q9lllk4z,
+.whatsapp-blur-overlay .qfejxiq4 .Mk0Bp._30scZ,
+.whatsapp-blur-overlay .njub1g37 span._11JPr,
+.whatsapp-blur-overlay .a4ywakfo.qt60bha0,
+.whatsapp-blur-overlay ._3IzYj,
+.whatsapp-blur-overlay .Efdtr,
+.whatsapp-blur-overlay .djhxrpsl,
+.whatsapp-blur-overlay div[role="row"] ._ak8q,
+.whatsapp-blur-overlay div[role="button"]._amie > div:nth-child(1),
+.whatsapp-blur-overlay div[role="button"]._amie > div:nth-child(2),
+.whatsapp-blur-overlay div._ahxj,
+.whatsapp-blur-overlay div._ahz1,
+.whatsapp-blur-overlay div.xs83m0k.x1iyjqo2.xdl72j9.x18wx58x.x6ikm8r.x10wlt62,
+.whatsapp-blur-overlay div.overlay ._ak8q,
+.whatsapp-blur-overlay h2.xngnso2.x1fcty0u.x2b8uid,
+.whatsapp-blur-overlay ._ak8k,
+.whatsapp-blur-overlay ._ak4m {
+  filter: blur(5px) !important;
+  transition: filter 0.3s ease-in-out;
 }
 
-.whatsapp-blur-overlay:hover {
-  filter: blur(0px);
-  -webkit-filter: blur(0px);
+.whatsapp-blur-overlay [role="row"] > div > ._1AHcd ._13jwn:hover,
+.whatsapp-blur-overlay [role="button"] > div > ._1AHcd ._13jwn:hover,
+.whatsapp-blur-overlay ._2pr2H:hover,
+.whatsapp-blur-overlay ._3WByx:hover,
+.whatsapp-blur-overlay .stnyektq:hover,
+.whatsapp-blur-overlay ._3oha0._2xaO4:hover,
+.whatsapp-blur-overlay ._3dPH0:hover,
+.whatsapp-blur-overlay .b021xdil:hover,
+.whatsapp-blur-overlay div[role="row"] ._ak8h:hover,
+.whatsapp-blur-overlay div[role="button"][class=""] ._ak8h:hover,
+.whatsapp-blur-overlay div[role="dialog"] ._ak8h:hover,
+.whatsapp-blur-overlay header._amid div[role="button"]:first-child > div:hover,
+.whatsapp-blur-overlay div._amk4 > div[role="button"]:hover,
+.whatsapp-blur-overlay div._ahz2:hover,
+.whatsapp-blur-overlay div.x2lah0s.x1c4vz4f.xdl72j9.x194xeti:hover,
+.whatsapp-blur-overlay div._ak4m:hover,
+.whatsapp-blur-overlay div.overlay ._ak8h:hover,
+.whatsapp-blur-overlay ._2AOIt div:first-child:hover,
+.whatsapp-blur-overlay ._3cupO:hover,
+.whatsapp-blur-overlay ._1BOF7 ._1sykI:hover,
+.whatsapp-blur-overlay div._amk4 > ._amk6:hover,
+.whatsapp-blur-overlay div._amk4 ._am2s:hover,
+.whatsapp-blur-overlay .pz0xruzv:hover,
+.whatsapp-blur-overlay .njub1g37 ._3xH7K:hover,
+.whatsapp-blur-overlay div.x78zum5.xl56j7k.x1fqp7bg > div[role="button"]:hover,
+.whatsapp-blur-overlay
+  div[role="button"][class="x1n2onr6 x14yjl9h xudhj91 x18nykt9 xww2gxu"]:hover,
+.whatsapp-blur-overlay
+  div.x10l6tqk.x13vifvy.x17qophe.xh8yej3.xiqx3za.x6ikm8r.x10wlt62.x1knukwh.xihgre1:hover,
+.whatsapp-blur-overlay div.x15e7hw7:hover,
+.whatsapp-blur-overlay div._amje:hover,
+.whatsapp-blur-overlay div.overlay ._am0k:hover,
+.whatsapp-blur-overlay ._aou8:hover,
+.whatsapp-blur-overlay
+  div:not([role])
+  > div:not([role])
+  > ._8nE1Y
+  ._21S-L:hover,
+.whatsapp-blur-overlay div[role="row"] > div > ._8nE1Y ._21S-L:hover,
+.whatsapp-blur-overlay div[role="button"] > div > ._8nE1Y ._21S-L:hover,
+.whatsapp-blur-overlay ._3W2ap:hover,
+.whatsapp-blur-overlay ._2au8k div:nth-child(2):hover,
+.whatsapp-blur-overlay ._2HCBh ._1N-sl ._1mDG-:hover,
+.whatsapp-blur-overlay .q9lllk4z:hover,
+.whatsapp-blur-overlay .qfejxiq4 .Mk0Bp._30scZ:hover,
+.whatsapp-blur-overlay .njub1g37 span._11JPr:hover,
+.whatsapp-blur-overlay .a4ywakfo.qt60bha0:hover,
+.whatsapp-blur-overlay ._3IzYj:hover,
+.whatsapp-blur-overlay .Efdtr:hover,
+.whatsapp-blur-overlay .djhxrpsl:hover,
+.whatsapp-blur-overlay div[role="row"] ._ak8q:hover,
+.whatsapp-blur-overlay div[role="button"]._amie > div:nth-child(1):hover,
+.whatsapp-blur-overlay div[role="button"]._amie > div:nth-child(2):hover,
+.whatsapp-blur-overlay div._ahxj:hover,
+.whatsapp-blur-overlay div._ahz1:hover,
+.whatsapp-blur-overlay
+  div.xs83m0k.x1iyjqo2.xdl72j9.x18wx58x.x6ikm8r.x10wlt62:hover,
+.whatsapp-blur-overlay div.overlay ._ak8q:hover,
+.whatsapp-blur-overlay h2.xngnso2.x1fcty0u.x2b8uid:hover,
+.whatsapp-blur-overlay ._ak8k:hover,
+.whatsapp-blur-overlay ._ak4m:hover {
+  filter: none !important;
+  transition: filter 0.3s ease-in-out;
 }
